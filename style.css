@@ -4,6 +4,7 @@
     --botal-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --font-principal: "inter";
+    --botao-azul-efeito:#3c92fa;
 }
 
 body {
@@ -23,7 +24,9 @@ body {
     background-image: url("img/Beckground.png");
     background-repeat: no-repeat;
     background-size: contain;
-}
+    align-items: center;
+    text-align: center;
+{
 
 .container {
     height: 100vh;
@@ -38,6 +41,7 @@ body {
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao_secundario{
