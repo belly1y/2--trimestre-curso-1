@@ -58,3 +58,31 @@ body {
 font-size: 28px;
 font-weight: 700;
 }
+
+.container__imagem{
+ margin: 1em 0 2em 0;
+}
+
+.container__caixa{
+    marging:0 6em;
+
+}
+.secundario__imagem{
+    Width:80%;
+}
+
+.secundario{
+    align_items: center;
+    margin;0 10em;
+}
+
+.descricao__Texto{
+font_Weight:700;
+font_size: 40px;
+color: var(--branco-principal); 
+margin-bottom: 0.1em;
+}
+
+.descricao__Texto{
+    color: var(--cinza-secundario)
+}
