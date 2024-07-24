@@ -1,4 +1,3 @@
-}
 
 .dispositivos_ _lista{
 display: flex;
@@ -13,7 +12,7 @@ text-align: center;
 
 .dispositivos_ _titulo{
 font-size: 32px;
-color:var(- - var(--branco-principal);
+color: var(--branco-principal);
 }
 
 .rodape{
@@ -22,8 +21,8 @@ margin: 5em 3em;
 }
 
 .lita_ _item{
-font-size: 32px
-color: var(- var(--branco-principal);
+font-size: 32px;
+color: var(--branco-principal);
 }
 
 .rodape_ _lista{
@@ -35,8 +34,10 @@ margin-top: 1em;
 
 .lista_ _link a {
 text-decoration: none;
-coor:var(--botao-principal);
+color:var(--botao-principal);
 margin-left: 1em;
 }
 
-.rodape
+.rodape{
+
+}
